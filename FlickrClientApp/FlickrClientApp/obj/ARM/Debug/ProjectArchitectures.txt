@@ -1,0 +1,1 @@
+C:\Github\Anees\FlickrClientApp\FlickrClientApp\FlickrClientApp\FlickrClientApp.csproj;arm
